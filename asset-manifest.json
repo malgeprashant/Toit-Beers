@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Toit-Beers/static/css/main.22dc45a6.css",
+    "main.js": "/Toit-Beers/static/js/main.52812076.js",
+    "static/media/Toit-Pune-brewpub-10 1 (1).png": "/Toit-Beers/static/media/Toit-Pune-brewpub-10 1 (1).2470f625aedce9ca831a.png",
+    "static/media/img13.jpg": "/Toit-Beers/static/media/img13.9214f1bb3047ea6904f5.jpg",
+    "static/media/img11.jpg": "/Toit-Beers/static/media/img11.6b70344a11d6ab53c2ef.jpg",
+    "static/media/img5.jpg": "/Toit-Beers/static/media/img5.17e65d6d80ca5631570b.jpg",
+    "static/media/ezgif.com-gif-maker.svg": "/Toit-Beers/static/media/ezgif.com-gif-maker.fbf4d2e262887a9d28eb.svg",
+    "static/media/Rectangle2.jpg": "/Toit-Beers/static/media/Rectangle2.d3f16b1496ef566cc786.jpg",
+    "static/media/img16.jpg": "/Toit-Beers/static/media/img16.ffe2a2ae93851407bb04.jpg",
+    "static/media/img15.jpg": "/Toit-Beers/static/media/img15.cf0cc51acea1b3192af8.jpg",
+    "static/media/img17.jpg": "/Toit-Beers/static/media/img17.bbdf496ad8dfaa5b51b4.jpg",
+    "static/media/Rectangle3.jpg": "/Toit-Beers/static/media/Rectangle3.cdf7dde91f19c9f10a62.jpg",
+    "static/media/Rectangle1.jpg": "/Toit-Beers/static/media/Rectangle1.d7733e837095088d4cea.jpg",
+    "static/media/img14.jpg": "/Toit-Beers/static/media/img14.034c5349ea575dda75be.jpg",
+    "static/media/img18.jpg": "/Toit-Beers/static/media/img18.b58a8b614ced9927aec4.jpg",
+    "static/media/img8.jpg": "/Toit-Beers/static/media/img8.57564dd2a5355bf6503e.jpg",
+    "static/media/img7.jpg": "/Toit-Beers/static/media/img7.782cf09728d1117b3f6f.jpg",
+    "static/media/img9.jpg": "/Toit-Beers/static/media/img9.26534d5cf49b4b22af64.jpg",
+    "static/media/ERS.jpg": "/Toit-Beers/static/media/ERS.c3a11e78718eb3536a77.jpg",
+    "static/media/dog.jpg": "/Toit-Beers/static/media/dog.5a070b766a22f806b8ce.jpg",
+    "static/media/img10.jpg": "/Toit-Beers/static/media/img10.d6b5c821518c52b2d854.jpg",
+    "static/media/img12.jpg": "/Toit-Beers/static/media/img12.7cd25e3b12cf3f518f73.jpg",
+    "static/media/ERy.jpg": "/Toit-Beers/static/media/ERy.582253c3d48aa249cd41.jpg",
+    "static/media/BREW.jpg": "/Toit-Beers/static/media/BREW.ab52fead32b3903f5007.jpg",
+    "index.html": "/Toit-Beers/index.html",
+    "main.22dc45a6.css.map": "/Toit-Beers/static/css/main.22dc45a6.css.map",
+    "main.52812076.js.map": "/Toit-Beers/static/js/main.52812076.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22dc45a6.css",
+    "static/js/main.52812076.js"
+  ]
+}
